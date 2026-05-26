@@ -27,5 +27,5 @@ The objective of the challenge was to build an Agentic AI workflow capable of na
 Below is the execution state demonstrating batch chunks progressing stable under API stress constraints:
 
 <p align="center">
-  <img src="Result.png" width="250" width="100%" alt="Pipeline execution results in Colab">
+  <img src="Result.png" width="100%" alt="Pipeline execution results in Colab">
 </p>
